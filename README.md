@@ -13,21 +13,10 @@ This is a simple **Tic-Tac-Toe** game developed using **C# WinForms**, adhering 
 - **C# WinForms** – For building the graphical user interface.
 - **Event-Driven Programming** – Manages user interactions dynamically.
 
-## 📂 Project Structure
-```
-TicTacToe/
-│── TicTacToe.sln             # Solution file
-│── MainForm.cs               # UI logic and event handlers
-│── GameLogic.cs              # Core game logic (win/draw conditions)
-│── Program.cs                # Application entry point
-│── Resources/                # Images, icons, and assets
-│── README.md                 # Project documentation
-```
-
 ## 📖 How to Run
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/TicTacToe.git
+   git clone https://github.com/Yousef-Refat/TicTacToe.git
    cd TicTacToe
    ```
 2. **Open the Solution**
