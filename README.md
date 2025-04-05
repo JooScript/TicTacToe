@@ -16,7 +16,7 @@ This is a simple **Tic-Tac-Toe** game developed using **C# WinForms**, adhering 
 ## 📖 How to Run
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/Yousef-Refat/TicTacToe.git
+   git clone https://github.com/JooScript/TicTacToe.git
    cd TicTacToe
    ```
 2. **Open the Solution**
